@@ -7,4 +7,5 @@ app/**/*.rb
 lib/msf/**/*.rb
 lib/metasploit/**/*.rb
 lib/rex/**/*.rb
-plugins/**/*.rb
+complementos / ** / *. rb
+lib / archivo / ** / * .rb
